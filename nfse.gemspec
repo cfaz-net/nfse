@@ -20,5 +20,6 @@ Gem::Specification.new do |gem|
     
     gem.add_dependency "nokogiri", "~> 1.8"
     gem.add_dependency "prawn", "~> 1.2"
-    gem.add_dependency "prawn-table", "~> 0.2"    
+    gem.add_dependency "prawn-table", "~> 0.2"
+    gem.add_dependency "ostruct", "~> 0.6.1"
   end
